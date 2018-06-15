@@ -1,0 +1,1229 @@
+
+
+
+<!doctype html>
+<html><!-- cph -->
+    <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta charset="gbk"/>
+<meta name="format-detection" content="telephone=no, address=no">
+<link rel="dns-prefetch" href="//g.alicdn.com">
+<link rel="dns-prefetch" href="//gtms01.alicdn.com">
+<link rel="dns-prefetch" href="//gtms02.alicdn.com">
+<link rel="dns-prefetch" href="//gtms03.alicdn.com">
+<link rel="dns-prefetch" href="//gtms04.alicdn.com">
+<link rel="dns-prefetch" href="//gd1.alicdn.com">
+<link rel="dns-prefetch" href="//gd2.alicdn.com">
+<link rel="dns-prefetch" href="//gd3.alicdn.com">
+<link rel="dns-prefetch" href="//gd4.alicdn.com">
+
+<link rel="canonical" href="https://item.taobao.com/item.htm?id=564532057504" />
+<link rel="amphtml" hreflang="zh-Hans" href="https://www.taobao.com/list/item-amp/564532057504.htm"/>
+<link rel="alternate" hreflang="zh-Hant" href="https://world.taobao.com/item/564532057504.htm" />
+
+<meta name="renderer" content="webkit"/>
+<meta name="referrer" content="always">
+<meta name="description" content="欢迎前来淘宝网实力旺铺，选购白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用,想了解更多白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用，请进入tide丶男爵馆的古早物实力旺铺，更多商品任你选购"/>
+<meta name="keywords" content="淘宝,掏宝,网上购物,店铺, 白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用."/>
+<meta name="data-spm" content="2013"/>
+<meta name="microscope-data" content="pageId=1370521177;prototypeId=2;siteId=7;shopId=63324585;userid=558235086;">
+<title>白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用-淘宝网</title>
+<link rel="shortcut icon" href="//img.alicdn.com/favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="//g.alicdn.com/??kg/global-util/1.0.5/index-min.css,kg/tb-gnav/1.0.5/index-min.css">
+            <link rel="stylesheet" href="//g.alicdn.com/tb/??item-detail/7.19.6/index-min.css"/>
+        
+    
+<script>
+    var g_config = {
+        startTime        : +new Date,
+        ver              : '7.19.6',
+        st               : '',
+        online           : true,
+        shopVer          : 2,
+        appId            : 1 ,
+        itemId           : '564532057504',
+        
+        shopId           : '63324585',
+        shopName         : '\u53E4\u65E9\u7269',
+        sellerId         : '558235086',
+        sellerNick       : 'tide丶男爵馆',
+        sibUrl           : '//detailskip.taobao.com/service/getData/1/p1/item/detail/sib.htm?itemId=564532057504&sellerId=558235086&modules=dynStock,qrcode,viewer,price,duty,xmpPromotion,delivery,upp,activity,fqg,zjys,couponActivity,soldQuantity,originalPrice,tradeContract',  
+        descUrl          : location.protocol==='http:' ? '//dsc.taobaocdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958' : '//desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958',  
+        counterApi       : '//count.taobao.com/counter3?inc=ICVT_7_564532057504&sign=70851060e11c69daa7c97ecba6bf68426c694&keys=DFX_200_1_564532057504,ICVT_7_564532057504,ICCP_1_564532057504,SCCP_2_63324585',
+        rateCounterApi   : '//rate.taobao.com/detailCount.do?itemId=564532057504',
+        areaPrice        : false,
+        
+        lazyload         : '#J_DivItemDesc',
+        
+        tadComponetCdn   : true,
+        delayInsurance   : false,
+        fuwubao          : false,
+        
+        cdn              : true,
+        sibFirst         : true,
+        
+        webp             : true,
+        descWebP         : false,
+        
+        newDomain        : true,
+        asyncStock       : true,
+        enable           : true,
+        
+        m_ratio          : 20,
+        
+        beacon           : {},
+        DyBase           : {
+            iurl : '//item.taobao.com',
+            purl : '//paimai.taobao.com',
+            durl : '//siteadmin.taobao.com',
+            lgurl: 'https://login.taobao.com/member/login.jhtml',
+            surl : '//upload.taobao.com',
+            suitUrl: '//jubao.taobao.com/index.htm?&spm=a1z6q.7847058&itemId='
+        },
+        idata            : {
+            item: {
+                id               : '564532057504',
+                title            : '\u767D\u74F7\u529F\u592B\u8336\u5177\u5957\u88C5\u5FB7\u5316\u7389\u74F7\u6574\u5957\u624B\u5DE5\u6CE1\u8336\u76D6\u7897\u8336\u58F6\u8336\u676F\u9676\u74F7\u65C5\u884C\u5BB6\u7528',
+                pic              : '//gd4.alicdn.com/imgextra/i1/558235086/TB2NzVtoRDH8KJjSspnXXbNAVXa_!!558235086.jpg',
+                price            : '',
+                status           : 0,
+                sellerNick       : 'tide丶男爵馆',
+                sellerNickGBK    : 'tide%E4%B8%B6%E7%94%B7%E7%88%B5%E9%A6%86',
+                skuComponentFirst: 'true',
+                
+                rcid             : '122952001',
+                cid              : '50002259',
+                virtQuantity     : '',
+                holdQuantity     : '',
+                
+                quickAdd         : 1,
+                
+                edit             : true, 
+                
+                initSizeJs:false,
+                auto: '',
+                
+                bnow             : true,
+                chong: false,
+                
+                dbst             : 1516815795000,
+                stepdata         : {
+                    
+                },
+                xjcc: false,
+                
+                type             : 'jiyoujia',
+                customHeader     : true,
+                
+                disableAddToCart  : !true,
+                
+                auctionImages    : ["//gd4.alicdn.com/imgextra/i1/558235086/TB2NzVtoRDH8KJjSspnXXbNAVXa_!!558235086.jpg","//gd1.alicdn.com/imgextra/i1/558235086/TB2G9mkoH_I8KJjy1XaXXbsxpXa_!!558235086.jpg","//gd4.alicdn.com/imgextra/i4/558235086/TB27JF_oNPI8KJjSspfXXcCFXXa_!!558235086.jpg","//gd2.alicdn.com/imgextra/i2/558235086/TB2K6ktowvD8KJjSsplXXaIEFXa_!!558235086.jpg","//gd4.alicdn.com/imgextra/i4/558235086/TB2ZZRroxPI8KJjSspoXXX6MFXa_!!558235086.jpg"]
+                
+            },
+            seller: {
+                id          : '558235086',
+                mode        : 0,
+                shopAge     : '7'
+                ,status      : 0
+                ,goldSeller  : true
+                
+                ,goldPeriods  : 33
+                
+            },
+            shop  : {
+            
+                id  : '63324585',
+                url : '//8888888886.taobao.com/'
+                
+                ,pid: 1370521177
+                
+                ,sid: 7
+                
+                ,xshop: true
+                
+                ,instId: 398384769
+                
+            
+            }
+        },
+        vdata :{
+        }
+        
+    };
+
+    
+    g_config.tadInfo = {"tad_head_area":[{"name":"满就送","type":7}],"tad_second_area":[{"name":"掌柜推荐","type":4}],"tad_first_area":[{"name":"掌柜推荐","type":4},{"name":"搭配套餐","type":8}]};
+    
+    g_config.favoriteVersion = "1.1.1";
+
+    
+    g_config.hasContract = true;
+    
+    g_config.hasCharity = true;
+    
+
+    g_config.showBuyerDetail = true;
+
+    
+        g_config.pinusEnterprise = true;
+    
+        g_config.cuntao2Item = true;
+    
+</script>
+<script>
+    function onSibRequestSuccess(res){g_config.sibRequest = {success: true, data: res&&res.data}}
+        (function() {
+            var getScript = function(f,c){var e=document,d=e.createElement("script");d.src=f;if(c){for(var b in c){d[b]=c[b];}};e.getElementsByTagName("head")[0].appendChild(d)};
+            var sibUrl= g_config.sibUrl;sibUrl+="&callback=onSibRequestSuccess";
+            var key=(function(){var params=location.search.substr(1).split("&");for(var i=0;i<params.length;i++){if(params[i].indexOf("key=")===0){return params[i]}}})();key&&(sibUrl+=("&"+key));
+            if(!g_config.sibRequest){getScript(sibUrl,{onerror:function(){g_config.sibRequest={success: false}}})};
+            getScript(g_config.descUrl);
+        })();
+</script>
+
+
+    </head>
+    <body data-spm="1" class="tab-active-index-0 tb-detail"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=item%5f50002259&userid=&at_isb=0&at_autype=5%5f63324585&aplus&udpid=&at_alis=1%5f558235086&&yunid=&&trid=792a11cb15290504532781176e&asid=AQAAAABVdSNb2H4iKgAAAAChBuGZHgke+w==&sidx=XqiM+voan8AqtwbQz+vFsG3+6uOnVp4XG33ikTBGx/YCgOJr2uvvRT+8/B4e81o2+hPJH2zhGyHSeB+mfve9MteKYWA2hyQTjW81cZxRpzeVHJHUJ86AlPi+K7Ddf3T0FCqjYMC/GgDJNOGP6ZhgEcgM6aqXcf/+akjfHjSSug4=",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script><script>
+if(!g_config.vdata){g_config.vdata={};}
+g_config.vdata.viewer={"id":"", "ct":"", "tnik":unescape(unescape(""))};
+g_config.vdata.sys={"now":1529050453000};
+</script>
+
+        
+<script>if(g_config.vdata && g_config.vdata.sys){g_config.vdata.sys.toggle={"p":1.0,"globalHeadUpdate":true,"dcP":"true","favoriteVersion":"1.1.1","thumb":false,"descWebP":false,"seoDetail":true,"webp":true,"m_ratio":20,"asyncStock":true};}</script>
+<div class="site-nav" id="J_SiteNav" data-component-config='{ "cart": "0.0.6","message": "3.4.6","umpp": "1.5.4","mini-login": "6.3.8","tb-ie-updater": "0.0.4","tbar": "2.1.0","tb-footer": "1.1.6","sidebar": "1.0.10" }'>
+  <div class="site-nav-bd" id="J_SiteNavBd"></div>
+</div>
+<!--[if lt IE 8]>
+<style>html{overflow-y:hidden}</style>
+<div class="tb-ie-updater-layer" id="J_IEUpdaterLayer"></div>
+<div class="tb-ie-updater-box" data-spm="20161112" id="J_IEUpdaterBox">
+  <a href="https://www.google.cn/intl/zh-CN/chrome/browser/desktop/" class="tb-ie-updater-google" target="_blank" data-spm-click="gostr=/tbieupdate;locaid=d1;name=google">璋锋瓕 Chrome</a>
+  <a href="http://www.uc.cn/ucbrowser/download/" class="tb-ie-updater-uc" target="_blank" data-spm-click="gostr=/tbieupdate20161112;locaid=d2;name=uc">UC 娴忚鍣?/a>"
+  <a class="tb-ie-updater-close" href="#" onclick="document.getElementById('J_IEUpdaterLayer').style.display='none';document.getElementById('J_IEUpdaterBox').style.display='none';document.documentElement.style.overflow='auto';return false">x</a>
+</div>
+<![endif]-->
+<div id="J_Header"></div>
+        <form id="J_FrmBid" name="bidForm" action="//buy.taobao.com/auction/buy_now.jhtml" method="post">
+
+            
+            <input type="hidden" value="" name="onekey"/>
+            <input type="hidden" value="" name="gmtCreate"/>
+            <input type="hidden" value="" name="checkCodeIds"/>
+            <input type="hidden" value="" name="secStrNoCCode"/>
+
+            <input type="hidden" name="tb_token" value=""  id="J_frmTokenField"/> 
+            <input type="hidden" name="item_url_refer" value="" id="J_ireferer"/>
+            <input type="hidden" name="item_id" value="564532057504"/>
+            <input type="hidden" name="item_id_num" value="564532057504"/>
+            <input type="hidden" name="auction_type" value="b"/>
+            <input type="hidden" name="from" value="item_detail"/> 
+            <input type="hidden" name="frm" value="" id="J_From"/> 
+
+            <input type="hidden" name="current_price" value= "476.00"/>
+            <input type="hidden" name="auto_post1" value=""/>
+            <input type="hidden" name="quantity" value="1" id="quantity"/> 
+            <input type="hidden" name="skuId" value="" id="skuId"/> 
+            <input type="hidden" name="skuInfo" value="" id="skuInfo"/> 
+            <input type="hidden" name="buyer_from" value="" id="J_TBuyerFrom"/> 
+            <input type="hidden" name="chargeTypeId" value="" id="J_ChargeTypeId"/> 
+
+            <!-- FIXME 外店已经不支持
+            
+            -->
+
+            
+        </form>
+    <input type="hidden" id="J_TokenField" name="tb_token" value="">
+
+        <div id="page">
+            <div id="content">
+                
+<p id="J_dcpg" class="design-page" style="display:none;"></p>
+<div class="J_AsyncDC" data-type="css"></div><div id="J_DcHead" class="J_AsyncDC tb-async-head tb-shop" data-type="head"></div>
+                <div id="bd">
+                    <div id="detail">
+                        <div class="tb-detail-bd tb-clear">
+                            <div class="tb-summary tb-clear">
+                                <div class="tb-item-info tb-clear">
+                                    <div class="tb-item-info-l"> 
+<div class="tb-gallery">
+    <div class="tb-booth tb-pic tb-main-pic">
+        <a href="//www.taobao.com/view_image.php?pic=HEYVDl9CEghRV1dcWwocCUQFGxVdQUZBVRdaWF1fXlRBVw0ECwRaPTFWJRYgBldrdnsMc3kDIRkbAis8WnpyZC0ILEVKWUNKCgoHAwwOHQMCDQ==&title=sNe0ybmmt%2FKy6L7fzNfXsLXCu6%2FT8bTJ1fvM18rWuaTF3bLouMfN67Louviy6LGtzNW0ycLD0NC80tPD&version=2&c=NTU4MjM1MDg2&sellerRate=52401&itemId=564532057504&fv=9&shopId=63324585" rel="nofollow" target="_blank">
+            <img id="J_ImgBooth" src="//gd4.alicdn.com/imgextra/i1/558235086/TB2NzVtoRDH8KJjSspnXXbNAVXa_!!558235086.jpg_400x400.jpg" data-hasZoom="700" data-size="400x400"/>
+        </a>
+        <div class="zoom-icon hidden tb-iconfont" id="J_ZoomIcon">&#337;</div>
+    </div>
+    <ul id="J_UlThumb" class="tb-thumb tb-clearfix">
+
+        
+
+            <li  class="tb-selected" >
+                <div class="tb-pic tb-s50">
+                    <a href="#"><img data-src="//gd4.alicdn.com/imgextra/i1/558235086/TB2NzVtoRDH8KJjSspnXXbNAVXa_!!558235086.jpg_50x50.jpg" /></a>
+                </div>
+            </li>
+
+        
+
+            <li >
+                <div class="tb-pic tb-s50">
+                    <a href="#"><img data-src="//gd1.alicdn.com/imgextra/i1/558235086/TB2G9mkoH_I8KJjy1XaXXbsxpXa_!!558235086.jpg_50x50.jpg" /></a>
+                </div>
+            </li>
+
+        
+
+            <li >
+                <div class="tb-pic tb-s50">
+                    <a href="#"><img data-src="//gd4.alicdn.com/imgextra/i4/558235086/TB27JF_oNPI8KJjSspfXXcCFXXa_!!558235086.jpg_50x50.jpg" /></a>
+                </div>
+            </li>
+
+        
+
+            <li >
+                <div class="tb-pic tb-s50">
+                    <a href="#"><img data-src="//gd2.alicdn.com/imgextra/i2/558235086/TB2K6ktowvD8KJjSsplXXaIEFXa_!!558235086.jpg_50x50.jpg" /></a>
+                </div>
+            </li>
+
+        
+
+            <li >
+                <div class="tb-pic tb-s50">
+                    <a href="#"><img data-src="//gd4.alicdn.com/imgextra/i4/558235086/TB2ZZRroxPI8KJjSspoXXX6MFXa_!!558235086.jpg_50x50.jpg" /></a>
+                </div>
+            </li>
+
+        
+
+    </ul>
+
+    <script>
+    (function () {
+        if (this.WebP)return;
+        this.WebP = {}, WebP._cb = function (e, t) {
+            this.isSupport = function (t) {
+                t(e)
+            }, t(e), (window.chrome || window.opera && window.localStorage) && window.localStorage.setItem("webpsupport", e)
+        }, WebP.isSupport = function (e) {
+            if (!e)return;
+            if (!window.chrome && !window.opera)return WebP._cb(!1, e);
+            if (window.localStorage && window.localStorage.getItem("webpsupport") !== null) {
+                var t = window.localStorage.getItem("webpsupport");
+                WebP._cb(t === "true", e);
+                return
+            }
+            var n = new Image;
+            n.src = "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA", n.onload = n.onerror = function () {
+                WebP._cb(n.width === 2 && n.height === 2, e)
+            }
+        }, WebP.run = function (e) {
+            this.isSupport(function (t) {
+                t && e()
+            })
+        }
+    })();
+    (function (e, f) {
+        var d, c = function (g) {
+            return document.getElementById(g)
+        }, a = function (g) {
+            var h = g.getAttribute("data-src");
+            if (!h) {
+                return
+            }
+            if (d && e) {
+                h += "_.webp";
+                f = true
+            }
+            g.src = f ? h.replace(/img0(\d)\.taobaocdn\.com/, "gd$1.alicdn.com") : h
+        }, b = function (h) {
+            if (h) {
+                for (var g = 0; g < h.length; g++) {
+                    a(h[g])
+                }
+            }
+        };
+        WebP.isSupport(function (g) {
+            d = g;
+            a(c("J_ImgBooth"));
+            b(c("J_UlThumb").getElementsByTagName("img"));
+            if (d) {
+                g_config.beacon.webp = 1
+            }
+        })
+    })(true, true);
+    
+</script>
+
+</div>
+
+<div id="J_Social" data-spm="20140010" class="tb-social tb-clearfix">
+        <ul>
+            <li class="tb-social-fav">
+                <a data-spm-click="gostr=/tbdetail;locaid=d1"
+                   class="J_TDialogTrigger"
+                   href="//favorite.taobao.com/popup/add_collection.htm?itemtype=1&amp;scjjc=1&amp;id=564532057504"
+                   data-closebtn="true"
+                   data-height="260"
+                   data-width="440"
+                   data-spm-protocol=""
+                   shortcut-key="c"
+                   shortcut-label="收藏宝贝"
+                   shortcut-effect="click">
+                    <i class="tb-icon"></i> 收藏宝贝<em class="J_FavCount"></em>
+                </a>
+            </li>
+            <li class="tb-social-split"></li>
+            <!--TODO:
+            <li class="tb-social-like">
+                <a data-spm-click="gostr=/tbdetail;locaid=d1"
+                   href="javascript:;"
+                   shortcut-key="x"
+                   shortcut-label="喜欢宝贝"
+                   shortcut-effect="click">
+                    <i class="tb-icon"></i> 喜欢宝贝
+                </a>
+            </li>
+            -->
+            <li class="tb-social-share">
+                <a data-spm-click="gostr=/tbdetail;locaid=d2"
+                   class="J_Share"
+                   href="javascript:;"
+                   data-init="false"
+                   shortcut-key="f"
+                   shortcut-label="分享宝贝"
+                   shortcut-effect="click">
+                    <i class="tb-icon"></i> 分享
+                </a>
+            </li>
+        </ul>
+    </div>
+ </div>
+                                    <div class="tb-item-info-r" data-spm="iteminfo"> <div class="tb-property tb-property-x">
+    <div class="tb-wrap tb-wrap-newshop">
+        
+    <div id="J_Title" class="tb-title" shortcut-key="t" shortcut-label="查看宝贝标题" shortcut-effect="focus">
+        <h3 class="tb-main-title" data-title="白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用">
+            白瓷功夫茶具套装德化玉瓷整套手工泡茶盖碗茶壶茶杯陶瓷旅行家用
+        </h3>
+        <p class="tb-subtitle"></p>
+        <div id="J_TEditItem" class="tb-editor-menu"></div>
+    </div>
+
+
+    <div class="jiyoujia-subtitle">
+    
+        <p>极有家认证[优质网店]：7年好店，权威认证，买退无忧</p>
+    
+        <p class="promise">
+           商家承诺：免费提供&ldquo;运费险&rdquo;，退货最高获赔25元运费理赔
+
+           <a class="help" href="https://www.jiyoujia.com/markets/youjia/customer-information-desk-12?spm=5704.7719159.5918.13.r61WTQ" target="_blank"></a>
+        </p>
+    
+    </div>
+<div id="J_Banner" class="tb-banner"></div>
+            <ul class="tb-meta">
+                
+<li id="J_StrPriceModBox" class="tb-detail-price tb-clear" shortcut-key="p" shortcut-label="查看价格" shortcut-effect="focus">
+    <span class="tb-property-type">价格</span>
+    <div class="tb-property-cont">
+        <strong id="J_StrPrice"><em class="tb-rmb">&yen;</em><em class="tb-rmb-num">396.00 - 656.00</em></strong>
+        
+    </div>
+</li><li id="J_PromoPrice" class="tb-detail-price tb-promo-price tb-clear tb-hidden">
+    <span class="tb-property-type">淘宝价</span>
+    <div class="tb-property-cont">
+        <div id="J_Promo" class="tb-promo-mod">
+            <div id="J_PromoHd" class="tb-promo-hd tb-promo-item"></div>
+            <div id="J_PromoBd" class="tb-promo-bd"></div>
+        </div>
+    </div>
+</li>
+<li id="J_Duty"></li>
+<li id="J_ActivityPrice"></li>
+<li id="J_OtherDiscount" class="tb-clear tb-hidden">
+    <span class="tb-property-type">优惠</span>
+    <div class="tb-other-discount">
+    </div>
+</li>
+<li id="J_Counter" class="tb-counter">
+    <span class="tb-property-type">销量</span>
+    <div class="tb-counter-bd">
+        <div class="tb-rate-counter">
+            <a id="J_ReviewTabTrigger" href="javascript:;">
+                <strong id="J_RateCounter">-</strong>
+                <span>累计评论</span>
+            </a>
+        </div>
+        <div class="tb-sell-counter">
+            <a href="javascript:;">
+                <strong id="J_SellCounter">-</strong>
+                <span>交易成功</span>
+            </a>
+        </div>
+    </div>
+</li>
+<li id="J_MorePromoSlider" class='tb-more-promo-slider tb-clearfix' style="display: none">
+    <ul id="J_MorePromoList"></ul>
+    <div class="post-script">以上价格可在付款时选择享用</div>
+</li>
+            </ul>
+            
+            <div id="J_StepPrice"></div>
+            
+            <div id="J_logistic"></div>
+            
+                <div id="J_SepLine" class="sep-line"></div>
+                
+                    <div id="J_isku" class="tb-key tb-key-sku" shortcut-key="i" shortcut-label="挑选宝贝" shortcut-effect="focus">
+                        <div class="tb-skin">
+                            
+<dl class="J_Prop tb-prop tb-clear  J_Prop_Color ">
+        <dt class="tb-property-type">颜色分类</dt>
+        <dd>
+            <ul data-property="颜色分类" class="J_TSaleProp tb-img tb-clearfix">
+                
+                        <li data-value="1627207:712595805" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i2/558235086/TB2UltyoMvD8KJjy0FlXXagBFXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷扁西施壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595803" >
+                            <a href="javascript:;" style="background:url(//gd1.alicdn.com/imgextra/i1/558235086/TB2NzVtoRDH8KJjSspnXXbNAVXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷西施壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595816" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i4/558235086/TB27JF_oNPI8KJjSspfXXcCFXXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷井栏壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595822" >
+                            <a href="javascript:;" style="background:url(//gd3.alicdn.com/imgextra/i2/558235086/TB2cCZrflfM8KJjSZFhXXcRyFXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷侧把壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595824" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i2/558235086/TB2Xio_osrI8KJjy0FhXXbfnpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷盖碗套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595815" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i1/558235086/TB2ZtOloH_I8KJjy1XaXXbsxpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷怡然壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595819" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i4/558235086/TB2HjtroNHI8KJjy1zbXXaxdpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷长嘴壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595813" >
+                            <a href="javascript:;" style="background:url(//gd3.alicdn.com/imgextra/i3/558235086/TB2jEsrflfM8KJjSZFhXXcRyFXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷竹节壶套装【17件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595804" >
+                            <a href="javascript:;" style="background:url(//gd3.alicdn.com/imgextra/i2/558235086/TB2tclzoMvD8KJjy0FlXXagBFXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷扁西施壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595801" >
+                            <a href="javascript:;" style="background:url(//gd1.alicdn.com/imgextra/i4/558235086/TB210Q.osnI8KJjSspeXXcwIpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷西施壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595817" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i1/558235086/TB2a8MYfdLO8KJjSZFxXXaGEVXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷井栏壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595818" >
+                            <a href="javascript:;" style="background:url(//gd1.alicdn.com/imgextra/i3/558235086/TB2fG.KflfM8KJjSZFOXXXr5XXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷侧把壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595821" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i3/558235086/TB2KeVDoInI8KJjSsziXXb8QpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷盖碗套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595810" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i2/558235086/TB2zRpRoMfH8KJjy1zcXXcTzpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷怡然壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595806" >
+                            <a href="javascript:;" style="background:url(//gd3.alicdn.com/imgextra/i2/558235086/TB2QnIYoDnI8KJjSszbXXb4KFXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷长嘴壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595811" >
+                            <a href="javascript:;" style="background:url(//gd1.alicdn.com/imgextra/i4/558235086/TB2cQZ.osnI8KJjSspeXXcwIpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷竹节壶套装【16件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595802" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i3/558235086/TB2Jw4.oL2H8KJjy1zkXXXr7pXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷扁西施壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595812" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i4/558235086/TB2OjVooRTH8KJjy0FiXXcRsXXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷西施壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595814" >
+                            <a href="javascript:;" style="background:url(//gd4.alicdn.com/imgextra/i2/558235086/TB2W5icoTvI8KJjSspjXXcgjXXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷井栏壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595820" >
+                            <a href="javascript:;" style="background:url(//gd1.alicdn.com/imgextra/i2/558235086/TB2UrtSoMfH8KJjy1zcXXcTzpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷侧把壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595823" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i2/558235086/TB2_93boBfH8KJjy1XbXXbLdXXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷盖碗套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595808" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i4/558235086/TB2qITgeAfb_uJkSne1XXbE4XXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷怡然壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595807" >
+                            <a href="javascript:;" style="background:url(//gd3.alicdn.com/imgextra/i4/558235086/TB23CcLotbJ8KJjy1zjXXaqapXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷长嘴壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+                        <li data-value="1627207:712595809" >
+                            <a href="javascript:;" style="background:url(//gd2.alicdn.com/imgextra/i1/558235086/TB2q5VsoNHI8KJjy1zbXXaxdpXa_!!558235086.jpg_30x30.jpg) center no-repeat;">
+                                <span>玉瓷竹节壶套装【15件】</span>
+                            </a>
+                            <i>已选中</i>
+                        </li>
+                    
+                
+            </ul>
+        </dd>
+    </dl>
+    
+
+                            <dl class="tb-amount tb-clear">
+    <dt class="tb-property-type">数量</dt>
+    <dd>
+        <span class="tb-stock" id="J_Stock">
+            <a href="javascript:void(0);" title="减1" hidefocus class="tb-reduce J_Reduce tb-iconfont">&#411;</a>
+            <input id="J_IptAmount" type="text" class="tb-text" value="1"   maxlength="8" title="请输入购买量"/>
+            <a href="javascript:void(0);" hidefocus class="tb-increase J_Increase tb-iconfont" title="加1">&#410;</a>件
+        </span>
+        <em>(库存<span id="J_SpanStock" class="tb-count">2</span>件)</em>
+        
+
+        
+
+    </dd>
+</dl>
+    <dl id="J_DlChoice" class="tb-choice tb-clear">
+        <dt>请选择：</dt>
+        <dd>
+            
+                <em>颜色分类</em>
+            
+        </dd>
+    </dl>
+
+<div id="J_SureSKU" class="tb-sure">
+    <p class="tb-choice">请勾选您要的商品信息</p>
+    <p class="tb-sure-continue">
+        <a id="J_SureContinue" href="javascript:;">确定</a>
+    </p>
+    <span class="close J_Close tb-iconfont">&#223;</span>
+</div>
+<div id="J_juValid" class="tb-action tb-clearfix ">
+    
+
+    <div class="tb-btn-buy">
+        
+        <a  href="javascript:;" title="点击此按钮，到下一步确认购买信息" class="J_LinkBuy" shortcut-key="b" shortcut-label="立即购买" shortcut-effect="click" data-addFastBuy="true" data-spm-click="gostr=/tbdetail;locaid=d1">
+                立即购买
+            </a>
+        
+    </div>
+
+    <div class="tb-btn-add">
+        
+            <a href="javascript:;" title="加入购物车" class="J_LinkAdd" shortcut-key="a" shortcut-label="加入购物车" shortcut-effect="click" data-spm-click="gostr=/tbdetail;locaid=d2">
+                <i class="tb-iconfont">&#365;</i>加入购物车
+            </a>
+        
+    </div>
+
+
+</div>
+
+                        </div>
+                    </div>
+                
+            <div class="tb-extra" id="J_tbExtra">
+    
+</div>
+        
+    </div>
+</div>
+ </div>
+                                </div>
+                            </div>
+                            <div class="tb-sidebar tb-clear"> 
+<div id="J_Pinus_Enterprise_Module" class="tb-pine tb-pine-enterprise" data-scene="pinus-enterprise" data-sellerid="558235086" data-catid="50002259" data-rootid="122952001" data-itemid="564532057504" data-shopid="63324585"></div>
+
+<div id="J_Pine" data-spm="20141001" class="tb-pine"
+     data-sellerid="558235086"
+     data-catid="50002259"
+     data-rootid="122952001"
+     data-itemid="564532057504"
+     data-shopid="63324585"></div>
+
+ </div>
+                        </div>
+                        <div id="J_PPayGuide"></div><div id="tad_first_area" data-spm="3"></div>
+
+                    </div>
+                    <div id="J_TabBarWrap" class="tb-tabbar-wrap tb-clear" data-spm="20140004">
+                        <div class="tb-tabbar-mid-wrap tb-clear">
+                            
+<div class="tb-shop-search">
+    <div class="search-panel">
+        <form target="_top" action="//8888888886.taobao.com/search.htm" name="search //8888888886.taobao.com" id="J_TShopSearchForm" class="search-panel-focused">
+            <div class="search-button">
+                <button id="J_ShopSearchIcon" class="tb-iconfont" type="submit">&#337</button>
+            </div>
+            <div class="search-panel-fields">
+                <input data-spm-click="gostr=/tbdetail;locaid=d6" id="q" name="q" aria-label="输本店" placeholder="搜本店" accesskey="s" autocomplete="off"/>
+            </div>
+            <input type="hidden" name="searcy_type" value="item"/>
+            <input type="hidden" name="s_from" value="newHeader"/>
+            <input type="hidden" name="source"/>
+            <input type="hidden" name="ssid" value="s5-e"/>
+            <input type="hidden" name="search" value="y"/>
+            <input type="hidden" id="J_TSearchSPM" name="spm" value="a1z10.1.1996643285.d4916901"/>
+            <input type="hidden" name="initiative_id" value=""/>
+            <input type="hidden" name="encoding" value="utf8"/>
+        </form>
+    </div>
+</div>
+
+                            <div class="tb-tabbar-inner-wrap">
+                                <ul id="J_TabBar" class="tb-tabbar tb-clear"> <li class="tb-first selected">
+    <a class="tb-tab-anchor" href="javascript:void(0);" hidefocus="true" shortcut-key="g d" shortcut-label="查看宝贝详情" shortcut-effect="click" data-index="0" data-spm-click="gostr=/tbdetail;locaid=d1">宝贝详情</a>
+    <div class="tb-selected-indicator"></div>
+</li>
+<li>
+    <a class="tb-tab-anchor" href="javascript:void(0);" hidefocus="true" shortcut-key="g c" shortcut-label="查看累计评论" shortcut-effect="click" data-index="1" data-spm-click="gostr=/tbdetail;locaid=d2">
+        累计评论
+        
+        <em class="J_ReviewsCount">0</em>
+    </a>
+    <div class="tb-selected-indicator"></div>
+</li>
+
+
+<li id="J_ServiceTab">
+    <a class="tb-tab-anchor" href="javascript:void(0);" hidefocus="true" data-spm-click="gostr=/tbdetail;locaid=d4" shortcut-key="g z" shortcut-label="查看专享服务" shortcut-effect="click" data-index="4">
+        专享服务</a>
+    <div class="tb-selected-indicator"></div>
+</li>
+<li class="tb-shop-cart">
+    <a id="J_TabShopCart" class="tb-tab-anchor" href="javascript:void(0);" data-index="3" data-spm-click="gostr=/tbdetail;locaid=d5"><i class="tb-iconfont">&#x16e;</i> 加入购物车</a>
+</li><li class="tb-ids-mod">
+    <a class="tb-tab-anchor" href="javascript:void(0);" style="cursor: default;">快速直达</a>
+</li>
+ </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="layout grid-s5m0 tb-main-layout">
+                        <div class="col-main clearfix">
+                            <div class="main-wrap  J_TRegion" id="J_MainWrap">
+                                <div class="sub-wrap" id="J_SubWrap">
+                                
+	<div id="J_PublicWelfare" class="tb-welfare-detail"></div>
+
+<div id="attributes" class="attributes">
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    <!-- attributes div start -->
+    
+        <ul class="attributes-list">
+
+        
+            <li title="古早物">品牌:&nbsp;古早物</li>
+            
+            <li title="瓷">材质:&nbsp;瓷</li>
+            
+            <li title="纯色">流行元素:&nbsp;纯色</li>
+            
+            <li title="整套功夫茶具">类型:&nbsp;整套功夫茶具</li>
+            
+            <li title="整套功夫茶具">茶具类型:&nbsp;整套功夫茶具</li>
+            
+            <li title="玉瓷扁西施壶套装【17件】 玉瓷西施壶套装【17件】 玉瓷井栏壶套装【17件】 玉瓷侧把壶套装【17件】 玉瓷盖碗套装【17件】 玉瓷怡然壶套装【17件】 玉瓷长嘴壶套装【17件】 玉瓷竹节壶套装【17件】 玉瓷扁西施壶套装【16件】 玉瓷西施壶套装【16件】 玉瓷井栏壶套装【16件】 玉瓷侧把壶套装【16件】 玉瓷盖碗套装【16件】 玉瓷怡然壶套装【16件】 玉瓷长嘴壶套装【16件】 玉瓷竹节壶套装【16件】 玉瓷扁西施壶套装【15件】 玉瓷西施壶套装【15件】 玉瓷井栏壶套装【15件】 玉瓷侧把壶套装【15件】 玉瓷盖碗套装【15件】 玉瓷怡然壶套装【15件】 玉瓷长嘴壶套装【15件】 玉瓷竹节壶套装【15件】">颜色分类:&nbsp;玉瓷扁西施壶套装【17件】 玉瓷西施壶套装【17件】 玉瓷井栏壶套装【17件】 玉瓷侧把壶套装【17件】 玉瓷盖碗套装【17件】 玉瓷怡然壶套装【17件】 玉瓷长嘴壶套装【17件】 玉瓷竹节壶套装【17件】 玉瓷扁西施壶套装【16件】 玉瓷西施壶套装【16件】 玉瓷井栏壶套装【16件】 玉瓷侧把壶套装【16件】 玉瓷盖碗套装【16件】 玉瓷怡然壶套装【16件】 玉瓷长嘴壶套装【16件】 玉瓷竹节壶套装【16件】 玉瓷扁西施壶套装【15件】 玉瓷西施壶套装【15件】 玉瓷井栏壶套装【15件】 玉瓷侧把壶套装【15件】 玉瓷盖碗套装【15件】 玉瓷怡然壶套装【15件】 玉瓷长嘴壶套装【15件】 玉瓷竹节壶套装【15件】</li>
+            
+            <li title="中式">风格:&nbsp;中式</li>
+            
+            <li title="德化县">产地:&nbsp;德化县</li>
+            
+            <li title="6人">适用人数:&nbsp;6人</li>
+            
+            <li title="陶瓷">配茶盘材质:&nbsp;陶瓷</li>
+            
+            <li title="自主实拍图">主图来源:&nbsp;自主实拍图</li>
+            
+        
+        </ul>
+    
+
+
+    
+
+
+        
+   
+</div>
+
+    <div class="tb-official-remind">
+          <div class="hd" style="background:#ffca00">
+              <img class="logo" title="服务承诺" src="//img.alicdn.com/tps/TB1betHOVXXXXaiXpXXXXXXXXXX-75-22.png" srcset="//img.alicdn.com/tps/TB17mJKOVXXXXboXXXXXXXXXXXX-150-44.png"/>
+              <em>专享服务承诺</em>
+          </div>
+          <div class="bd">
+            <ul>
+                
+                <li  class="single" >
+                    <div class="icon-wrap">
+                        <img class="icon" src="//img.alicdn.com/tps/TB1zMlzOVXXXXbBXpXXXXXXXXXX-48-48.png" srcset="//img.alicdn.com/tps/TB1Zq.8OFXXXXXTapXXXXXXXXXX-96-96.png"/>
+                    </div>
+                    <dl>
+                        <dt>运费险</dt>
+                        <dd>买卖双方在交易未完结前，买家发起退货请求时，保险公司会对退货产生的单程运费提供保险服务。<a target="_blank" href="https://www.jiyoujia.com/markets/youjia/customer-information-desk-12">点此查看详情</a></dd>
+                    </dl>
+                </li>
+                
+            </ul>
+          </div>
+    </div>
+
+
+
+    
+
+        
+    
+<div id="service" data-item-id="564532057504"></div><div id="tad_second_area" class="tad-stage" data-spm="4"></div><div id="description" class="J_DetailSection tshop-psm ke-post">
+    
+    <div id="J_DivItemDesc" class="content">
+    
+    描述加载中
+    
+    </div>
+</div><div id="reviews"
+     data-reviewApi = "//rate.taobao.com/detail_rate.htm?userNumId=558235086&amp;auctionNumId=564532057504&amp;showContent=1&amp;currentPage=1&amp;ismore=0&amp;siteID=7"
+     data-reviewCountApi = ""
+     data-listApi = "//rate.taobao.com/feedRateList.htm?userNumId=558235086&amp;auctionNumId=564532057504&amp;siteId=7&amp;spuId=0"
+     data-commonApi = "//rate.taobao.com/detailCommon.htm?userNumId=558235086&amp;auctionNumId=564532057504&amp;siteID=7&amp;spuId=0"
+     data-usefulApi = "//rate.taobao.com/vote_useful.htm?userNumId=558235086&amp;auctionNumId=564532057504">
+</div>
+<div id="deal-record">
+    
+    <div class="tb-public-panel">
+        <div id="J_showBuyerList">
+        </div>
+    </div>
+</div>
+
+                                </div>
+                                <div class="J_AsyncDC tb-custom-area tb-shop" data-type="main" id="J_AsyncDCMain"></div>
+                            </div>
+                            <div class="tb-price-spec">
+	<h3 class="spec-title">价格说明</h3>
+	<p class="title">划线价格</p>
+	<p class="info">指商品的专柜价、吊牌价、正品零售价、厂商指导价或该商品的曾经展示过的销售价等，<strong>并非原价</strong>，仅供参考。</p>
+	<p class="title">未划线价格</p>
+	<p class="info">指商品的<strong>实时标价</strong>，不因表述的差异改变性质。具体成交价格根据商品参加活动，或会员使用优惠券、积分等发生变化，最终以订单结算页价格为准。</p>
+	<p class="info">商家详情页（含主图）以图片或文字形式标注的一口价、促销价、优惠价等价格可能是在使用优惠券、满减或特定优惠活动和时段等情形下的价格，具体请以结算页面的标价、优惠条件或活动规则为准。</p>
+	<p class="info">此说明仅当出现价格比较时有效，具体请参见《淘宝价格发布规范》。若商家单独对划线价格进行说明的，以商家的表述为准。</p>
+</div>
+<div class="correlative-items J_TAjaxContainer" data-spm="20141002" id="detail-recommend-viewed"
+     data-sellerid="558235086"
+     data-catid="50002259"
+     data-rootid="122952001"
+     data-itemid="564532057504"></div>
+
+<div class="correlative-items J_TAjaxContainer" data-spm="20141003" id="detail-recommend-bought"
+     data-sellerid="558235086"
+     data-catid="50002259"
+     data-rootid="122952001"
+     data-itemid="564532057504"></div>
+<div class="correlative-items" id="detail-recommend-linjiahaohuo" data-spm="20160405"></div>
+
+    <div class="J_AsyncDC" data-type="dr">
+        <div id="official-remind">
+            <dl class="tb-security">
+                <dt>安全提示：</dt>
+                <dd>
+                  <p>交易中请勿使用<em class="tb-h">阿里旺旺</em>以外的聊天工具沟通，不要接收<em class="tb-h">可疑文件</em>和不要点击<em class="tb-h">不明来源</em>的链接，支付前核实好域名和支付详情。
+                    淘宝不会以订单有问题，让您提供任何<em class="tb-h">银行卡</em>、<em class="tb-h">密码</em>、<em class="tb-h">手机验证码</em>！遇到可疑情况可在钱盾“诈骗举报”中进行举报, <a href="//qd.alibaba.com/go/v/pcdetail" target="_top">安全推荐</a></p>
+                    <p>推荐安全软件：
+                        <span><img src="//gw.alicdn.com/mt/TB19uC7QVXXXXX4XpXXXXXXXXXX-16-16.png" alt="钱盾" /><a href="http://qd.alibaba.com/?tracelog=detail" target="_top">钱盾</a> </span>
+                        <span><img src="//img.alicdn.com/tps/i1/TB1XL5ZGFXXXXbDXFXXAz6UFXXX-16-16.png" alt="UC浏览器" /><a href="http://down2.uc.cn/pcbrowser/index.php?id=101&pid=4368" target="_top">UC浏览器</a> </span>
+                    </p>
+                </dd>
+            </dl>
+            <dl class="tb-exemption">
+                <dt>内容申明：</dt>
+                <dd>淘宝为第三方交易平台及互联网信息服务提供者，淘宝（含网站、客户端等）所展示的商品/服务的标题、价格、详情等信息内容系由店铺经营者发布，其真实性、准确性和合法性均由店铺经营者负责。淘宝提醒用户购买商品/服务前注意谨慎核实。如用户对商品/服务的标题、价格、详情等任何信息有任何疑问的，请在购买前通过阿里旺旺与店铺经营者沟通确认；淘宝存在海量店铺，如用户发现店铺内有任何违法/侵权信息，请立即向淘宝举报并提供有效线索。</dd>
+            </dl>
+        </div>
+    </div>
+
+                        </div>
+                        <div class="J_AsyncDC tb-shop col-sub J_TRegion" data-type="side"></div>
+                    </div>
+                </div>
+                <div id="ft" class="tb-shop J_AsyncDC" data-type="foot"></div><div id="copyright"></div>
+            </div>
+        </div>
+        
+
+<div id="J_sidebar_config" data-component-config='{ "cart": "0.0.6","message": "3.4.6","umpp": "1.5.4","mini-login": "6.3.8","tb-ie-updater": "0.0.4","tbar": "2.1.0","tb-footer": "1.1.6","sidebar": "1.0.10" }' data-tbar='{ "show":true, "miniCart": "2.12.2","paramsBlackList": "_wt,seeyouagain1722","my_activity": "https:&#x2F;&#x2F;market.m.taobao.com&#x2F;apps&#x2F;abs&#x2F;5&#x2F;38&#x2F;my12?psId=58386&amp;pcPsId=58388", "venueUrl": "https:&#x2F;&#x2F;1212.taobao.com?wh_weex=true&amp;data_prefetch=true&amp;wx_navbar_transparent=true", "helpUrl": "https://consumerservice.taobao.com/online-help", "validTime":{"startTime": 1512057599, "endTime": 1513094400}, "style": {"name": "171212", "path": "kg/sidebar-style-171212/0.0.5/" }, "page":[],"blackList":[],"navDataId":{"tceSid":1182567,"tceVid":0},"pluginVersion":{ "cart":"0.2.0","history":"0.2.0","redpaper":"0.0.8","gotop":"0.2.5","help":"0.2.1","ww":"0.0.3","pagenav":"0.0.27","myasset":"0.0.9","my1212":"0.0.1","my1111":"0.2.2"}}'>
+</div>
+
+
+<script>
+    Hub = {};
+    Hub.config = {
+        config: {},
+        get: function(key) {
+            if (key in this.config) {
+                return this.config[key];
+            } else {
+                return null;
+            }
+        },
+        set: function(key, val) {
+            this.config[key] = val;
+        }
+    };
+
+    Hub.config.set('sku', {
+        valCartInfo      : {
+            itemId : '564532057504',
+            cartUrl: '//cart.taobao.com/cart.htm'
+        },
+        apiRelateMarket  : '//tui.taobao.com/recommend?appid=16&count=4&itemid=564532057504',
+        apiAddCart       : '//cart.taobao.com/add_cart_item.htm?item_id=564532057504',
+        apiInsurance     : '',
+        wholeSibUrl      : '//detailskip.taobao.com/service/getData/1/p1/item/detail/sib.htm?itemId=564532057504&sellerId=558235086&modules=dynStock,qrcode,viewer,price,duty,xmpPromotion,delivery,upp,activity,fqg,zjys,couponActivity,soldQuantity,originalPrice,tradeContract',
+        areaLimit        : '',
+        bigGroupUrl      : '',
+        valPostFee       : '',
+        coupon           : {
+            couponApi         : '//detailskip.taobao.com/json/activity.htm?itemId=564532057504&sellerId=558235086',
+            couponWidgetDomain: '//assets.alicdn.com',
+            cbUrl             : '/cross.htm?type=weibo'
+        },
+        valItemInfo      : {
+            
+            defSelected: -1,
+            skuMap     : {";1627207:712595818;":{"price":"476.00","stock":"2","skuId":"3567333244586","oversold":false},";1627207:712595807;":{"price":"396.00","stock":"2","skuId":"3567333244597","oversold":false},";1627207:712595819;":{"price":"656.00","stock":"2","skuId":"3567333244581","oversold":false},";1627207:712595808;":{"price":"396.00","stock":"2","skuId":"3567333244596","oversold":false},";1627207:712595809;":{"price":"396.00","stock":"2","skuId":"3567333244598","oversold":false},";1627207:712595803;":{"price":"656.00","stock":"2","skuId":"3567333244576","oversold":false},";1627207:712595814;":{"price":"396.00","stock":"2","skuId":"3567333244593","oversold":false},";1627207:712595815;":{"price":"656.00","stock":"2","skuId":"3567333244580","oversold":false},";1627207:712595804;":{"price":"476.00","stock":"2","skuId":"3567333244583","oversold":false},";1627207:712595805;":{"price":"656.00","stock":"2","skuId":"3567333244575","oversold":false},";1627207:712595816;":{"price":"656.00","stock":"2","skuId":"3567333244577","oversold":false},";1627207:712595817;":{"price":"476.00","stock":"2","skuId":"3567333244585","oversold":false},";1627207:712595806;":{"price":"476.00","stock":"2","skuId":"3567333244589","oversold":false},";1627207:712595821;":{"price":"476.00","stock":"2","skuId":"3567333244587","oversold":false},";1627207:712595810;":{"price":"476.00","stock":"2","skuId":"3567333244588","oversold":false},";1627207:712595822;":{"price":"656.00","stock":"2","skuId":"3567333244578","oversold":false},";1627207:712595811;":{"price":"476.00","stock":"2","skuId":"3567333244590","oversold":false},";1627207:712595801;":{"price":"476.00","stock":"2","skuId":"3567333244584","oversold":false},";1627207:712595812;":{"price":"396.00","stock":"2","skuId":"3567333244592","oversold":false},";1627207:712595823;":{"price":"396.00","stock":"2","skuId":"3567333244595","oversold":false},";1627207:712595824;":{"price":"656.00","stock":"2","skuId":"3567333244579","oversold":false},";1627207:712595813;":{"price":"656.00","stock":"2","skuId":"3567333244582","oversold":false},";1627207:712595802;":{"price":"396.00","stock":"2","skuId":"3567333244591","oversold":false},";1627207:712595820;":{"price":"396.00","stock":"2","skuId":"3567333244594","oversold":false}}
+            ,propertyMemoMap: {"1627207:712595803":"玉瓷西施壶套装【17件】","1627207:712595814":"玉瓷井栏壶套装【15件】","1627207:712595824":"玉瓷盖碗套装【17件】","1627207:712595813":"玉瓷竹节壶套装【17件】","1627207:712595802":"玉瓷扁西施壶套装【15件】","1627207:712595801":"玉瓷西施壶套装【16件】","1627207:712595812":"玉瓷西施壶套装【15件】","1627207:712595823":"玉瓷盖碗套装【15件】","1627207:712595822":"玉瓷侧把壶套装【17件】","1627207:712595811":"玉瓷竹节壶套装【16件】","1627207:712595821":"玉瓷盖碗套装【16件】","1627207:712595810":"玉瓷怡然壶套装【16件】","1627207:712595820":"玉瓷侧把壶套装【15件】","1627207:712595809":"玉瓷竹节壶套装【15件】","1627207:712595819":"玉瓷长嘴壶套装【17件】","1627207:712595808":"玉瓷怡然壶套装【15件】","1627207:712595818":"玉瓷侧把壶套装【16件】","1627207:712595807":"玉瓷长嘴壶套装【15件】","1627207:712595817":"玉瓷井栏壶套装【16件】","1627207:712595806":"玉瓷长嘴壶套装【16件】","1627207:712595805":"玉瓷扁西施壶套装【17件】","1627207:712595816":"玉瓷井栏壶套装【17件】","1627207:712595815":"玉瓷怡然壶套装【17件】","1627207:712595804":"玉瓷扁西施壶套装【16件】"}
+            
+            
+        }
+    });
+
+    Hub.config.set('desc', {
+        dummy       : false,
+        apiImgInfo  : '//tds.alicdn.com/json/item_imgs.htm?t=TB1ICJLokOWBuNjSsppXXXPgpXa&sid=558235086&id=564532057504&s=b1e57a90bb411ed0bbdd14378eb1f668&v=2&m=1',
+        similarItems: {
+            api           : '//tds.alicdn.com/recommended_same_type_items.htm?v=1',
+            rstShopId     : '63324585',
+            rstItemId     : '564532057504',
+            rstdk         : 0,
+            rstShopcatlist: ',1308731141,318738281,1308731144,'
+        }
+    });
+
+    
+    Hub.config.set('async_dc', {
+        newDc : true,
+        api   : '//hdc1.alicdn.com/asyn.htm?userId=558235086&pageId=1370521177&v=2014'
+    });
+    
+
+    Hub.config.set('support', {
+        url : '//osdsc.alicdn.com/designsystem/T1VDA1Xb8gXXb9F47H.groupmember|var^groupMember;sign^c651a1596e610313fb6c5c7ed1fab949;lang^gbk;t^1529030028000'
+    });
+
+    Hub.config.set('async_sys', {
+        api: '//item.taobao.com/asyn.htm?g=sys&v=2'
+    });
+
+    
+    Hub.config.set('video', {"videoDuaration":"47","picUrl":"//img.alicdn.com/imgextra/i1/6000000002962/TB2S9gpi2MTUeJjSZFKXXagopXa_!!0-0-tbvideo.jpg_310x310.jpg","videoId":"50033266388","autoplay":"1","videoOwnerId":"558235086","videoStatus":"0"});
+    
+
+</script><script>
+    g_config.activitySource={"pre":"\/\/img.alicdn.com\/tps\/i1\/TB1o6JsHVXXXXcFXXXXGTSvIXXX-960-80.jpg","start":"\/\/img.alicdn.com\/tps\/i2\/TB1bxJoHVXXXXX5XpXXGTSvIXXX-960-80.jpg"};
+</script><script>
+    ;(function () {
+    var isDaily = !!~location.hostname.indexOf('daily');
+    var DAILY_ASSETS_HOST = '//g-assets.daily.taobao.net/';
+    var PUBLISH_ASSETS_HOST = '//g.alicdn.com/';
+    var DAILY = 'daily', PRE = 'pre', PUB = 'pub';
+    var env = location.host.indexOf(DAILY) > -1 ? DAILY : (location.host.indexOf(PRE) > -1 ? PRE : PUB);
+    if(location.href.indexOf('env=' + PUB) > -1) env = PUB;
+    var unb = 0, result = /tracknick=([^;]+)/.exec(document.cookie);
+    if(result) unb = unescape(unescape(result[1])).charCodeAt();
+    Components = [];
+    function getBase(path) {
+        if (typeof path === 'object') {
+            path = path[env] || path[PUB];
+        }
+        var host = isDaily ? DAILY_ASSETS_HOST : PUBLISH_ASSETS_HOST;
+        return host + path;
+    }
+    Config = {
+        packages: {
+            tbc: {
+                base: getBase('tbc/'),
+                ignorePackageNameInUri: true
+            },
+            tb: {
+                base: getBase('tb/'),
+                ignorePackageNameInUri: true
+            },
+            kg: {
+                base: getBase('kg/'),
+                ignorePackageNameInUri: true
+            },
+            cm: {
+                base: getBase('cm/'),
+                ignorePackageNameInUri: true
+            },
+            'sd/data_sufei': {
+                base: getBase('sd/data_sufei/1.3.6/sufei'),
+                ignorePackageNameInUri: true
+            },
+            'tb-mod': {
+                base: getBase('tb-mod/'),
+                ignorePackageNameInUri: true
+            }
+        },
+        modules: {
+            datalazyload: {
+                alias: ['kg/datalazyload/2.0.2/']
+            },
+            'gallery/datalazyload/1.0.1/': {
+                alias: ['kg/datalazyload/2.0.2/']
+            },
+            'gallery/datalazyload/1.0/': {
+                alias: ['kg/datalazyload/2.0.2/']
+            },
+            switchable: {
+                alias: ['kg/switchable/2.0.0/']
+            },
+            imagezoom: {
+                alias: ['kg/imagezoom/2.0.1/']
+            },
+            kscroll: {
+                alias: ['gallery/kscroll/1.1/']
+            },
+            rainlib: {
+                alias: ['gallery/rainlib/1.0/']
+            },
+            log: {
+                alias: ['tbc/log/']
+            },
+            sku: {
+                alias: ['kg/sku/6.2.0/']
+            },
+            doctor: {
+                alias: ['kg/doctor/0.0.1/']
+            },
+            shortcuts: {
+                alias: ['tbc/shortcuts/0.1.0/']
+            },
+            slide: {
+                alias: ['kg/slide/2.0.2/']
+            },
+            seckill: {
+                alias: ['tb/item-seckill/0.0.7/']
+            },
+            'address-detail/wlroute': {
+                requires: ["node", "io", "xtemplate", "overlay", "event", "address-detail/wlroute.css"]
+            },
+            'records':{
+                alias: ['tb/item-records/0.0.4/']
+            },
+            'item-detail/index': {
+                requires: [
+                    'core',
+                    'overlay',
+                    'xtemplate',
+                    'imagezoom',
+                    'switchable',
+                    'datalazyload',
+                    'sku',
+                    'log'
+                ]
+            },
+            util: {alias: "kg/kmd-adapter/0.1.5/util"}, 
+            feature: {alias: "kg/kmd-adapter/0.1.5/feature"}, 
+            "event-dom": {alias: "event"}, 
+            "event-custom": {alias: "event"}, 
+            "event-gesture": {alias: "event"}
+        }
+    };
+    define = function (e, a, t) {return KISSY.add(e, a, function (e, a, n, i) {t(a, n, i)})};
+
+    Config.packages["cbase"]={base:getBase("cm/base/0.6.3/"),debug:true,ignorePackageNameInUri:true};
+    Config.packages["address-detail"]={base:getBase("ccc/address-detail/2.0.3/"),debug:true,ignorePackageNameInUri:true};
+    Config.packages["charity"]={base:getBase("tb/charity/1.0.8/"),debug:true,ignorePackageNameInUri:true};
+    Config.packages["wangpu"]={base:getBase("shop/wangpu/1.4.11/"),debug:false,ignorePackageNameInUri:true};
+    Config.modules["rate"]={alias:"tbc/rate/0.2.6/"};
+    Config.modules["header"]={alias:"tbc/header/1.4.8/",requires:["header/index.css"]};
+    Config.modules["favorite"]={alias:"tbc/favorite/1.0.8/"};
+    Config.modules["contract"]={alias:"kg/contract/0.0.5/"};
+    Config.modules["qrcode"]={alias:"kg/item-qrcode/0.0.3/"};
+    Config.modules["oversea-service"]={alias:"kg/oversea-detail-service/0.0.1/"};
+    Components.push({"path":"kg/anticheat/0.0.1/","init":"Component.init('detail')","precondition":"","name":"anticheat","load":"","retry":0});
+    Components.push({"path":"kg/detail-page-pine-module/6.0.11/","init":"new Component({height: KISSY.one('.tb-detail-bd', '#detail').height() - KISSY.one('#J_ShopInfo').height() })","precondition":"document.getElementById('J_ShopInfo') && !g_config.idata.item.enterprise","name":"pine","load":"core","retry":1});
+    Components.push({"name":"viewed","path":"kg/detail-viewed-bought-module/6.0.17/","precondition":"document.getElementById('detail-recommend-viewed')","init":"new Component()","load":"lazy","trigger":"scroll:#detail-recommend-viewed","retry":1});
+    Components.push({"name":"offline","path":"kg/recommend-offline-module/0.0.9/","precondition":"document.getElementsByClassName('tb-key-off-sale')[0]","init":"new Component();","retry":1});
+    Components.push({"name":"charity","path":"//g.alicdn.com/tb/charity/1.0.8/deps.js","precondition":"g_config.hasCharity","init":"KISSY.use('charity/c/detailModule/index', function (S, Charity) { Charity.initView('#J_PublicWelfare', {itemId: g_config.itemId}); })","retry":0});
+    Components.push({"name":"tad","path":"kg/detail-item-recommend/0.0.10/","precondition":"g_config.tadInfo","init":"new Component({ data: g_config.tadInfo });","retry":1});
+    Components.push({"name":"paimai","path":"kg/pm-sku/0.0.1/index.js","precondition":"g_config.idata.item.auction","init":"Component.start(g_config.DyBase.purl,g_config.itemId)","load":"","trigger":"","retry":1});
+    Components.push({"name":"size","path":"//g.alicdn.com/tb/mysize/1.0.0/deps.js","precondition":"g_config.idata.item.initSizeJs","init":"KISSY.config({   packages: [{     name: 'mysize',     base: '//g.alicdn.com/tb/mysize/1.0.0/',     combine: true,     ignorePackageNameInUri: true,     debug: true   }] }); KISSY.use('mysize/p/showsize/', function(S, ShowSize) {   var itemData = g_config.idata.item;   var valItemInfo = Hub.config.get('sku').valItemInfo;   ShowSize(g_config.itemId, g_config.sellerId, valItemInfo && valItemInfo.propertyMemoMap, '.J_Prop_measurement', itemData.footType, '.tb-foot-type', itemData.sizeGroupName, itemData.isShowSizeTemplate, itemData.sizeTempId); });","load":"","trigger":"","retry":1});
+    Components.push({"name":"qualification","path":"cm/qualified/0.2.0/app-detail/tb-detail","precondition":"g_config.itemQualification","init":"Component.init({result:g_config.itemQualification,link:false});","load":"","trigger":"","retry":1});
+    Components.push({"name":"pointman","path":"//g.alicdn.com/secdev/pointman/js/index.js#app=taobao","precondition":"!window.attachEvent && Math.random() < 0.011","init":"","load":"lazy","trigger":"time:1000","retry":0});
+    Components.push({"name":"caro2o","path":"cbase/p/o2o-service/tb-detail","precondition":"g_config.supportO2OService","init":"","load":"main","trigger":"","retry":0});
+    Components.push({"name":"pureService","path":"cbase/p/pure-service/tb-detail","precondition":"g_config.Electronic","init":"Component.init({itemId : g_config.itemId,serviceData : g_config.Electronic,sellerId:g_config.sellerId});","load":"","trigger":"","retry":0});
+    Components.push({"name":"lifemap","path":"//g.alicdn.com/tb/life/2.0.0/config.js","precondition":"g_config.idata.item.isLifeServiceItem","init":"KISSY.use('life/p/service-range-for-detail/',function(S,serviceRangeForDetail){serviceRangeForDetail.init({itemId:g_config.itemId,el:'#J_IframeForLife'});});","load":"","trigger":"","retry":0});
+    Components.push({"name":"steporder","path":"cbase/p/o2o-steporder/tb-detail","precondition":"g_config.StepOrder","init":"Component.init({itemId : g_config.itemId , StepOrder : g_config.StepOrder });","load":"","trigger":"","retry":0});
+    Components.push({"name":"freeBookingCar","path":"//g.alicdn.com/tb/usedcar-booking/0.0.1/config.js","precondition":"g_config.freeBookingCar","init":"USEDCARBOOKING_XCake.config({name: 'usedcar-booking',base: '//g.alicdn.com/tb/usedcar-booking/0.0.1/',combine: true});KISSY.use('usedcar-booking/p/popup-booking/', function(S, PopupBooking){ PopupBooking.init(); });","load":"","trigger":"","retry":0});
+    Components.push({"name":"item-spu","path":"tb/item-spu/1.0.0/index","precondition":"g_config.spuStandardInfo","init":"Component.init(g_config.spuStandardInfo);","load":"","trigger":"","retry":1});
+    Components.push({"name":"fuwubao","path":"//g.alicdn.com/sj/life/2.0.3/config.js","precondition":"g_config.delayInsurance && !g_config.fuwubao","init":"KISSY.use('life/c/service-items/',function(S,serviceItem){serviceItem.init('#J_ServiceItems', g_config.itemId)});","retry":0});
+    Components.push({"name":"jiyoujia","path":"//g.alicdn.com/tb-mod/youjia-detail-service/0.0.9/index.js","precondition":"g_config.jiyoujiaPromises","init":"KISSY.use('tb-mod/youjia-detail-service/0.0.9/', function(S, Component){new Component('#J_JiyoujiaPromises', g_config.jiyoujiaPromises);})","load":"","trigger":"","retry":0});
+    Components.push({"name":"pine_enterprise","path":"kg/detail-pinus-enterprise-module/6.0.6/","precondition":"(g_config.pinusEnterprise || g_config.idata.item.customHeader) && document.getElementById(\"J_Pinus_Enterprise_Module\")","init":"new Component();","load":"core","retry":1});
+    Components.push({"name":"carmodel","path":"kg/carmodel/0.0.2/","precondition":"g_config.cascadeData","init":"Component.init({container: '#J_CascadeData', data: g_config.cascadeData})","load":"","trigger":"","retry":0});
+    Components.push({"name":"item-presale","path":"kg/item-presale/0.0.7/","precondition":"g_config.presale","init":"Component.init('#J_TbcPresale', {data:g_config.presale, now:g_config.vdata.sys.now, itemId:g_config.itemId,itemTitle:g_config.idata.item.title});","retry":0});
+    Components.push({"name":"linjiahaohuo","path":"kg/linjiahaohuo/0.0.2/","precondition":"document.getElementById('detail-recommend-linjiahaohuo')","init":"Component.init({container:'#detail-recommend-linjiahaohuo',itemId:g_config.itemId,sellerId:g_config.sellerId})","load":"lazy","trigger":"scroll:#detail-recommend-linjiahaohuo","retry":1});
+    Components.push({"name":"cuntao-coupon","path":"kg/cuntao-coupon-detail/0.1.4/","precondition":"g_config.idata.item.cuntaoItem","init":"new Component({$target:'#J_cuntaoCoupon'})","retry":0});
+    Components.push({"name":"cuntao-cycle","path":"kg/cuntao-cycle-detail/0.0.2/","precondition":"g_config.cuntaoCycleItem","init":"new Component({$target:'#J_cuntaoCycle'})","load":"","trigger":"","retry":1});
+    Components.push({"name":"sp-services","path":"cm/detail-services-component/0.3.0/","precondition":"document.getElementById('J_SpServices')","init":"Component.init('#J_SpServices')","retry":0});
+    Components.push({"name":"item-huichi","path":"kg/detail-huichi-icon/0.0.6/","precondition":"g_config.huichi","init":"new Component({data:g_config.huichi,node:'#J_Huichi'})","load":"lazy","trigger":"scroll:#J_Huichi"});
+    Components.push({"name":"cun-packsale-detail","path":"kg/cun-packsale-detail/0.0.6/","precondition":"g_config.cuntaoPackageTrade","init":"new Component({$target:'.tb-meta'})"});
+    Components.push({"name":"service","path":"//g.alicdn.com/sj/life/3.0.0/config.js","precondition":"g_config.fuwubao && g_config.delayInsurance","init":"KISSY.use('life/c/service-items/',function(S,serviceItem){serviceItem.init('#J_ServiceItems', g_config.itemId)});"});
+    Components.push({"name":"cuntao-goods-tags","path":"kg/cuntao-goods-tags/0.0.2/","precondition":"g_config.cuntao2Item || g_config.cuntaoAgriItem","init":"new Component({$target:'#J_Title'})"});
+})();
+
+</script>
+            <script src="//g.alicdn.com/??kissy/k/1.4.14/seed-min.js,sd/sufei/0.2.4/app/common/sufei-kissy.js,mtb/videox/0.1.33/videox-pc.js" charset="utf-8"></script>
+            <script src="//g.alicdn.com/??kg/kmd-adapter/0.1.5/index.js,kg/kmd-adapter/0.1.5/util.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-gnav/1.1.1/index-min.js"></script>
+<script>KISSY.config({combine:true, modules:{'flash':{alias:['gallery/flash/1.0/']}}});KISSY.use('kg/global-util/1.0.7/');KISSY.config({modules: {'kg/tb-gnav':{alias:'kg/tb-gnav/1.1.1/',requires:['kg/global-util/1.0.7/']}}});KISSY.ready(function(){KISSY.use('kg/tb-gnav')});</script>
+            <script src="//g.alicdn.com/??tb/item-detail/7.19.6/platform-min.js" charset="utf-8"></script>
+        
+    
+
+
+
+
+
+
+    </body>
+</html>

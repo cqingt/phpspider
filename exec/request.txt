@@ -1,0 +1,5 @@
+2018-06-15 08:03:31 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
+2018-06-15 08:11:17 request url: http://cd.jd.com/description/channel?skuId=10186809346&mainSkuId=10036702261&cdn=2
+2018-06-15 08:15:44 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
+2018-06-15 08:41:21 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
+2018-06-15 08:42:10 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
