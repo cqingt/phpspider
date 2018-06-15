@@ -11,3 +11,11 @@
 2018-06-15 10:01:09 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610
 2018-06-15 10:25:14 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610
 2018-06-15 10:25:37 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610
+2018-06-15 15:35:28 request url: https://desc.alicdn.com/i5/550/590/555597675310/TB1dVMmSpXXXXXeXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5E03d11dfe6d8bf558ff9c04426d19822f%3Blang%5Egbk%3Bt%5E1527486479
+2018-06-15 15:42:18 request url: https://desc.alicdn.com/i5/550/590/555597675310/TB1dVMmSpXXXXXeXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5E03d11dfe6d8bf558ff9c04426d19822f%3Blang%5Egbk%3Bt%5E1527486479
+2018-06-15 15:43:55 request url: https://desc.alicdn.com/i5/550/590/555597675310/TB1dVMmSpXXXXXeXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5E03d11dfe6d8bf558ff9c04426d19822f%3Blang%5Egbk%3Bt%5E1527486479
+2018-06-15 15:44:39 request url: https://desc.alicdn.com/i5/550/590/555597675310/TB1dVMmSpXXXXXeXpXX8qtpFXlX.desc%7Cvar%5Edesc%3Bsign%5E03d11dfe6d8bf558ff9c04426d19822f%3Blang%5Egbk%3Bt%5E1527486479
+2018-06-15 15:47:45 request url: http://cd.jd.com/description/channel?skuId=11688516744&mainSkuId=10211428309&cdn=2
+2018-06-15 15:50:03 request url: https://desc.alicdn.com/i6/450/240/45324116115/TB1gk0Gg7UmBKNjSZFO8qub2Xla.desc%7Cvar%5Edesc%3Bsign%5Ed6e6e2f76b44ee6ab580380ef2c8907d%3Blang%5Egbk%3Bt%5E1527508621
+2018-06-15 15:51:06 request url: https://desc.alicdn.com/i6/450/240/45324116115/TB1gk0Gg7UmBKNjSZFO8qub2Xla.desc%7Cvar%5Edesc%3Bsign%5Ed6e6e2f76b44ee6ab580380ef2c8907d%3Blang%5Egbk%3Bt%5E1527508621
+2018-06-15 16:14:21 request url: https://desc.alicdn.com/i5/550/890/557890457365/TB13ZL2irsrBKNjSZFp8qwXhFla.desc%7Cvar%5Edesc%3Bsign%5E7fc1b936a9435ffbb895942b919371b6%3Blang%5Egbk%3Bt%5E1529079329

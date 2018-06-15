@@ -37,7 +37,7 @@ class Taobao extends Spider
         if (! empty($thumbs) && is_array($thumbs)) {
             foreach ($thumbs as $key => $thumb) {
                 $thumb = str_replace('50x50', '400x400', $thumb);
-                //$this->_handler->downloadImage('http:' . $thumb, $this->_path, 'thumb_' . $key);
+                $this->_handler->downloadImage('http:' . $thumb, $this->_path, 'thumb_' . $key);
             }
         }
 
@@ -69,26 +69,10 @@ class Taobao extends Spider
 
         if (! empty($details) && is_array($details)) {
             foreach ($details as $key => $detail) {
-                //$this->_handler->downloadImage($detail, $this->_path, 'detail_' . $key);
+                $this->_handler->downloadImage($detail, $this->_path, 'detail_' . $key);
             }
         }
 
         return ['product' => count($details)];
-    }
-
-    /**
-     * 设置商品ID
-     * @return int
-     */
-    protected function _getGoodsId()
-    {
-        preg_match_all('/&id=(\d+)/', $this->_detailUrl, $output);
-
-        $goodsId = 0;
-        if (! empty($output)) {
-            $goodsId = $output[1];
-        }
-
-        return $goodsId;
     }
 }
