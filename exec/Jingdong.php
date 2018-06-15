@@ -14,7 +14,7 @@ use phpspider\core\selector;
 
 class Jingdong extends Spider
 {
-    protected static $_detailUrl = "https://item.jd.com/product/_goodsId_.html";   // 详情页URL
+    // protected $_detailUrl = "https://item.jd.com/product/_goodsId_.html";   // 详情页URL
 
     /**
      * 保存缩略图
@@ -45,10 +45,14 @@ class Jingdong extends Spider
     /**
      * 保存详情图
      */
-    public function saveDetail()
+    public function saveProduct()
     {
         // 从html里获取详情的url
         $descUrl = selector::select($this->_html, '@cd.jd.com\/description\/channel(.*?)\'@', 'regex');
+
+        if (empty($descUrl)) {
+            exit('请求详情页图片的URL出错');
+        }
 
         // 详情页url拼接
         $detailUrl = "http://cd.jd.com/description/channel" . $descUrl;
@@ -71,6 +75,6 @@ class Jingdong extends Spider
             }
         }
 
-        return ['detail' => count($details)];
+        return ['product' => count($details)];
     }
 }

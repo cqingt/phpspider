@@ -8,7 +8,9 @@
 
 require_once 'Taobao.php';
 
-$jd = new Taobao('564532057504');
+$url = '';
+$pattern = '/&id=(\d+)/';
+$jd = new Taobao($url, $pattern);
 $result = $jd->saveAll();
 
 echo json_encode($result);

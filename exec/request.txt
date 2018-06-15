@@ -3,3 +3,11 @@
 2018-06-15 08:15:44 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
 2018-06-15 08:41:21 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
 2018-06-15 08:42:10 request url: https://desc.alicdn.com/i1/560/530/564532057504/TB1aPSfoMDD8KJjy0Fd8qwjvXla.desc%7Cvar%5Edesc%3Bsign%5E144dff054298d8731bd8d820f7727465%3Blang%5Egbk%3Bt%5E1524628958
+2018-06-15 09:01:47 request url: https://desc.alicdn.com
+2018-06-15 09:09:07 request url: https://desc.alicdn.com
+2018-06-15 09:11:41 request url: https://desc.alicdn.com
+2018-06-15 09:20:49 request url: https://desc.alicdn.com/i1/560/130/564135359843/TB18luggRjTBKNjSZFD8qvVgVla.desc%7Cvar%5Edesc%3Bsign%5Eeeb2f83a3da821627ceb44004d02eb64%3Blang%5Egbk%3Bt%5E1527272261
+2018-06-15 09:21:22 request url: https://desc.alicdn.com/i1/560/130/564135359843/TB18luggRjTBKNjSZFD8qvVgVla.desc%7Cvar%5Edesc%3Bsign%5Eeeb2f83a3da821627ceb44004d02eb64%3Blang%5Egbk%3Bt%5E1527272261
+2018-06-15 10:01:09 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610
+2018-06-15 10:25:14 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610
+2018-06-15 10:25:37 request url: https://desc.alicdn.com/i3/560/680/566681820248/TB11F2MtuGSBuNjSspb8qwiipla.desc%7Cvar%5Edesc%3Bsign%5E1ce70179fb51dec2de15f14f2621ec45%3Blang%5Egbk%3Bt%5E1528365610

@@ -8,7 +8,9 @@
 
 require_once 'Jingdong.php';
 
-$jd = new Jingdong('10186809346');
+$url = '';
+$pattern = '/\/(\w+)\.html/';
+$jd = new Jingdong($url, $pattern);
 $result = $jd->saveAll();
 
 echo json_encode($result);
